@@ -14,11 +14,6 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 
 - [Official Discord Server](https://discord.com/invite/r2c3rGsvH3)
 
-### Tutorials
-
-<!-- Erase this before add something... -->
-> Nothing yet... Be the first to add something here
-
 ### Plugins
 
 - [Asset Loader](https://github.com/litecanvas/plugin-asset-loader) - Plugin to load images, sounds, musics, fonts, etc.
@@ -45,3 +40,7 @@ List of games made with Litecanvas.
 <!-- Erase this before add something... -->
 > Nothing yet... Be the first to add something here
 
+### Tutorials
+
+<!-- Erase this before add something... -->
+> Nothing yet... Be the first to add something here
