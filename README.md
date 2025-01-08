@@ -1,0 +1,47 @@
+# Awesome Litecanvas
+
+A community-driven collection of awesome things related to [Litecanvas](https://github.com/litecanvas/game-engine).
+
+## Resources
+
+### Official Resources
+
+- [Documentation](https://litecanvas.js.org/about.html)
+- [Playground](https://litecanvas.js.org/)
+- [Github Repo](https://github.com/litecanvas/game-engine)
+
+### Community
+
+- [Official Discord Server](https://discord.com/invite/r2c3rGsvH3)
+
+### Tutorials
+
+<!-- Erase this before add something... -->
+> Nothing yet... Be the first to add something here
+
+### Plugins
+
+- [Asset Loader](https://github.com/litecanvas/plugin-asset-loader) - Plugin to load images, sounds, musics, fonts, etc.
+- [Joystick](https://github.com/litecanvas/plugin-joystick) - Plugin to add virtual joystick
+- [More Shapes](https://github.com/litecanvas/plugin-more-shapes) - Plugin to draw other shapes like triangle, stars, regular hexagons, etc.
+- [Timers](https://github.com/litecanvas/plugin-timers) - Plugin to create and manage timers.
+- [Keyboard](https://github.com/litecanvas/plugin-keyboard) - Plugin to handle advance keyboard events.
+- [Text Box](https://github.com/litecanvas/plugin-text-box) - Plugin to draw multiline texts.
+
+### Utilities & Snippets
+
+- [litecanvas-utils](https://github.com/litecanvas/utils) - collection of tools for developing games.
+- [Simple tilemap renderer](https://gist.github.com/luizbills/bf329b0c798401940c0d9209cf7fae20) - Simple solution to draw tilemaps using the kaplay's style.
+
+### Tools
+
+- [Pixel Art Editor](https://litecanvas.js.org/tools/pixel-art-editor.html) - Draw and export pixel art in the litecanvas `paint()` format.
+- [ZzFX Designer](https://killedbyapixel.github.io/ZzFX/) - Online tool to generate ZzFX sounds.
+
+### Games
+
+List of games made with Litecanvas.
+
+<!-- Erase this before add something... -->
+> Nothing yet... Be the first to add something here
+
