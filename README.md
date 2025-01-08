@@ -30,6 +30,8 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 
 ### Tools
 
+List of tools that help to develop things with Litecanvas.
+
 - [Pixel Art Editor](https://litecanvas.js.org/tools/pixel-art-editor.html) - Draw and export pixel art in the litecanvas `paint()` format.
 - [ZzFX Designer](https://killedbyapixel.github.io/ZzFX/) - Online tool to generate ZzFX sounds.
 
@@ -37,10 +39,11 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 
 List of games made with Litecanvas.
 
-<!-- Erase this before add something... -->
-> Nothing yet... Be the first to add something here
+- [JS13k Breakouts](https://breakouts.js13kgames.com/) - Breakout style games implemented with small libraries/engines/templates for the js13kGames competition.
 
 ### Tutorials
+
+List of tutorials about Litecanvas.
 
 <!-- Erase this before add something... -->
 > Nothing yet... Be the first to add something here
