@@ -4,7 +4,7 @@
 
 A community-driven collection of awesome things related to [Litecanvas](https://github.com/litecanvas/game-engine).
 
-- [Resources](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#resources)
+- [Resources](#resources)
   - [Official Resources](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#official-resources)
   - [Community](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#community)
   - [Plugins](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#plugins)
