@@ -11,7 +11,8 @@ A community-driven collection of awesome things related to [Litecanvas](https://
   - [Utilities & Snippets](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#utilities--snippets)
   - [Tools](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#tools)
 - [Games](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#games)
-- [Tutorials](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#tutorials) 
+- [Tutorials](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#tutorials)
+- [Videos](https://github.com/litecanvas/awesome-litecanvas/blob/main/README.md#videos) 
 
 ## Resources
 
@@ -56,6 +57,13 @@ List of games made with Litecanvas.
 ## Tutorials
 
 List of tutorials about Litecanvas.
+
+<!-- Erase this before add something... -->
+> Nothing yet... Be the first to add something here
+
+## Videos
+
+List of videos about Litecanvas.
 
 <!-- Erase this before add something... -->
 > Nothing yet... Be the first to add something here
