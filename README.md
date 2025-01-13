@@ -25,6 +25,7 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 ### Community
 
 - [Official Discord Server](https://discord.com/invite/r2c3rGsvH3)
+- [Subreddit](https://www.reddit.com/r/litecanvas/)
 
 ### Plugins
 
