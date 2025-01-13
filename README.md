@@ -40,6 +40,7 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 - [Template](https://github.com/litecanvas/template) - Basic template to create litecanvas projects using esbuild.
 - [litecanvas-utils](https://github.com/litecanvas/utils) - collection of tools for developing games.
 - [Simple tilemap renderer](https://gist.github.com/luizbills/bf329b0c798401940c0d9209cf7fae20) - Simple solution to draw tilemaps using the kaplay's style.
+- [Simple scene manager](https://gist.github.com/luizbills/08272728c6bd0c142020f24e087b0af4) - Simple solution to create and manage scenes.
 
 ### Tools
 
