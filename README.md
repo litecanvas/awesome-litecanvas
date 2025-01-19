@@ -35,6 +35,7 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 - [Timers](https://github.com/litecanvas/plugin-timers) - Plugin to create and manage timers.
 - [Keyboard](https://github.com/litecanvas/plugin-keyboard) - Plugin to handle advance keyboard events.
 - [Text Box](https://github.com/litecanvas/plugin-text-box) - Plugin to draw multiline texts.
+- [Reset](https://gist.github.com/luizbills/12ee7520d89e61109897010df8d3a5a5) - Plugin to reset/restart your game.
 
 ### Utilities & Snippets
 
