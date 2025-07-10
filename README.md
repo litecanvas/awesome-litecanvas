@@ -37,6 +37,8 @@ A community-driven collection of awesome things related to [Litecanvas](https://
 - [Text Box](https://github.com/litecanvas/plugin-text-box) - Plugin to draw multiline texts.
 - [Reset](https://gist.github.com/luizbills/12ee7520d89e61109897010df8d3a5a5) - Plugin to reset/restart your game.
 - [Lospec Color Palette Loader](https://gist.github.com/luizbills/ec522ab06e8e0574bdd8470177b56bb2) - Load palettes from https://lospec.com/palette-list
+- [Pixel Font](https://github.com/litecanvas/plugin-pixel-font) - Make texts with pixel font.
+- [FPS Meter](https://github.com/litecanvas/plugin-frame-rate-meter) - create a performance monitor to measure frame rate and other informations using `stats.js` library.
 
 ### Utilities & Snippets
 
